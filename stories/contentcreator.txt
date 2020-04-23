@@ -1,3 +1,12 @@
 Content Creator Story
 
-Actor: Meghan
+Actor: Meghan - Content Creator
+
+Opens browser and navigates to home url/admin which brings her to an admin login page
+
+She enters a username and password and is directed to the employee portal page.
+
+This page is populated with messages she has written up and the dates they will be sent to users, as well as a "create new message" button
+
+When she clicks "Create new message", she gets a JS popup which allows her to enter a message that will fit in a text message and a date selector
+that allows her to select the date this message will be sent. NOTE: Future release may include a "send right now" option.

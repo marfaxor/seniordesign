@@ -1,0 +1,17 @@
+User Signup Story
+
+Actor(s): Never Alone Recovery's clients or prospective clients who find the web application via Never Alone Recovery's advertising. Assum technological illiteracy
+
+Person navigates to the "Better Days" home page where they see:
+    -Navigation Bar [Home | About | Get Help | Contact]
+    -Title Banner
+    -Brief Description, along the lines of:
+        "The 'Better Days' program allows you to sign up for daily inspirational messages, and keeps you closer to help and support. Enter your information below to begin"
+    -Signup fields
+        -Name (this is for internal use only and will NEVER be shared outside of Never Alone Recovery)
+        -Phone Number
+
+    Users enter their name and phone number and immediately receive a text message informing them that they have signed up:
+        "You have signed up for the Better Days program, respond Y to confirm you participation or N to opt out"
+
+    This concludes the user-instigated signup process, since we want to make it as easy and straightforward as possible to participate.

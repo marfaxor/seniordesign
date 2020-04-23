@@ -1,0 +1,5 @@
+Employee Portal Story
+
+Actors: Never Alone Recovery's employees.
+
+Employee navigates to betterdays.com/admin which returns admin login page

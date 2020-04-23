@@ -1,0 +1,22 @@
+Super Admin
+
+Actor: Austin Wynn, owner of Never Alone Recovery
+
+Austin opens his web browser and navigates to betterdays/admin, where the admin login fields appear.
+
+Upon submitting credentials, Austin is brought to employee portal with:
+    -Total number of active users and total number of help requests
+    -Manage employees
+        -Add new employee
+            -name
+            -contact
+            -priority [low - med -high]
+            -login information:
+                -username
+                -password
+        -remove employee
+    -Records
+        -list of all tickets [timestamped] and who responded to them [also timestamped]
+    -Sign up user
+        -name
+        -phone number
